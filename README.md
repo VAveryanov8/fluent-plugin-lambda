@@ -1,4 +1,4 @@
-# fluent-plugin-lambda
+# fluent-plugin-lambda-ext
 
 Output plugin for [AWS Lambda](http://aws.amazon.com/lambda/).
 
@@ -9,7 +9,7 @@ Output plugin for [AWS Lambda](http://aws.amazon.com/lambda/).
 
 ## Installation
 
-    $ gem install fluent-plugin-lambda
+    $ gem install fluent-plugin-lambda-ext(not exists yet)
 
 ## Configuration
 
