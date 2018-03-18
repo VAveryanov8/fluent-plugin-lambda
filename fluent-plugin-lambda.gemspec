@@ -1,12 +1,12 @@
 # coding: utf-8
 Gem::Specification.new do |spec|
-  spec.name          = 'fluent-plugin-lambda'
-  spec.version       = '0.2.1'
+  spec.name          = 'fluent-plugin-lambda-ext'
+  spec.version       = '0.3.0'
   spec.authors       = ['Genki Sugawara']
   spec.email         = ['sugawara@cookpad.com']
-  spec.description   = %q{Output plugin for AWS Lambda.}
+  spec.description   = %q{Output plugin for AWS Lambda. Fork of github.com/winebarrel/fluent-plugin-lambda}
   spec.summary       = %q{Output plugin for AWS Lambda.}
-  spec.homepage      = 'https://github.com/winebarrel/fluent-plugin-lambda'
+  spec.homepage      = 'https://github.com/VAveryanov8/fluent-plugin-lambda-ext'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
